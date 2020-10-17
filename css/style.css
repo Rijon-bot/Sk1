@@ -1,0 +1,27 @@
+div{
+		color: white;
+		padding: 50px;
+		width: 1000px;
+		margin-left: auto;
+        margin-right: auto; 
+       text-align: center;
+	}
+	.sk1{
+		 
+		background-color: seagreen;
+
+	}
+	.sk2{
+		 
+		background-color: #35082e;
+		
+	}
+
+h1{
+	font-size: 90px;
+	margin: 0;
+}
+p{
+	font-size: 18px;
+	margin: 0;
+}
